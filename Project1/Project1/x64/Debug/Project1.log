@@ -1,0 +1,13 @@
+﻿  Source.cpp
+d:\work\licenta\project1\project1\source.cpp(86): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\work\licenta\project1\project1\source.cpp(87): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+     Creating library D:\work\licenta\Project1\x64\Debug\Project1.lib and object D:\work\licenta\Project1\x64\Debug\Project1.exp
+  Project1.vcxproj -> D:\work\licenta\Project1\x64\Debug\Project1.exe
