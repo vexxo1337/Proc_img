@@ -1,2 +1,2 @@
 # Proc_img
-Image segmentation 
+Image segmentation DLL
